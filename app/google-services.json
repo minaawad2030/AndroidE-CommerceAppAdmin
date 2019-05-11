@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "490925246738",
+    "firebase_url": "https://medical-markos.firebaseio.com",
+    "project_id": "medical-markos",
+    "storage_bucket": "medical-markos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490925246738:android:8ba7bbecb354e603",
+        "android_client_info": {
+          "package_name": "com.medical.mina.markosmedicalsupplies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490925246738-u4vg0k1gngh8fc5eb3at3dt2mrnkoflh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medical.mina.markosmedicalsupplies",
+            "certificate_hash": "087c739ef105ba5ab1bba9e1cd7b6dec41360f9a"
+          }
+        },
+        {
+          "client_id": "490925246738-lfgb4o8mvai2o85lq445aspdupqoq7u5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "490925246738-lfgb4o8mvai2o85lq445aspdupqoq7u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3ix2jIDrfdecwuxqorEkuuEDs8IemOks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490925246738-lfgb4o8mvai2o85lq445aspdupqoq7u5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490925246738:android:adf92d8752f31490",
+        "android_client_info": {
+          "package_name": "com.minassoftware.morkosmedicalsuppliesserverside"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490925246738-vmhq7kopk43u06e29hjo352pv0puc9ep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.minassoftware.morkosmedicalsuppliesserverside",
+            "certificate_hash": "bf31be477acf95343b7f13324c1f63aa973ad2e8"
+          }
+        },
+        {
+          "client_id": "490925246738-lfgb4o8mvai2o85lq445aspdupqoq7u5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "490925246738-lfgb4o8mvai2o85lq445aspdupqoq7u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3ix2jIDrfdecwuxqorEkuuEDs8IemOks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490925246738-lfgb4o8mvai2o85lq445aspdupqoq7u5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
